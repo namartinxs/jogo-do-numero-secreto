@@ -5,7 +5,7 @@
 
 ## Funcionalidades
  - Gera um número aleatório entre 1 e 10.
- - Fornece feedback ao usuário quanto ao número escolhido.
+ - Fornece feedback ao usuário quanto ao número escolhido, através de uma API de voz que lê se o número é maior ou menor que o escolhido pelo usuário.
 
  ## Demonstração
  <div align="center">https://youtu.be/-7KS6FmMfP4</div>  <p></p>
