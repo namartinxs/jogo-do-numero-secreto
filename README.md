@@ -1,7 +1,11 @@
 <h1 align="center"> Jogo do número secreto  </h1>
 
+<p>Este projeto é um jogo de adivinhação de números, onde o jogador deve tentar adivinhar um número secreto gerado aleatoriamente pelo programa. O jogo fornece feedback ao jogador após cada tentativa, indicando se o número secreto é maior ou menor que o número escolhido.</p>
 <p>Projeto desenvolvido ao longo do segundo curso de lógica da trilha de programação do Geração Caldeira 2024.</p>
 
+## Funcionalidades
+ - Gera um número aleatório entre 1 e 10.
+ - Fornece feedback ao usuário quanto ao número escolhido.
 
  ## Demonstração
  <div align="center">https://youtu.be/-7KS6FmMfP4</div>  <p></p>
